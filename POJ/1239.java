@@ -1,5 +1,5 @@
 package task06;
-
+//branch_a
 
 import java.util.Scanner;
 
