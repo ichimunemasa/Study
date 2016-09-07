@@ -1,6 +1,6 @@
-package task06;
-
-
+pckage task06;
+//branch_a
+// 更に追加
 import java.util.Scanner;
 
 public class Main {
